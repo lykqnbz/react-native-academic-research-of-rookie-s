@@ -8,7 +8,7 @@ export default class Button extends Component {
     this.state = {
       disabled: false
     }
-  }
+  };
   onPress = () => {
     const { onPress } = this.props;
     this.disabled();

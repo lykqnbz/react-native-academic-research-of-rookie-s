@@ -30,8 +30,9 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}> welcome to React Native！ </Text>
-        <Text style={styles.inst}> welcoTTTTT </Text>
+        <Text style={styles.welcome}> we2112t N1at11i22ve！ </Text>
+        <Text style={styles.inst} > welc12TTTT </Text>
+        <Button text=" 发送" onPress={this.fetchData} />
       </View>
     );
   }
