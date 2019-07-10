@@ -1,5 +1,9 @@
 # 两个菜鸟的react-native学术交流
 
+### 项目需求
+- [制造云蓝湖地址](https://lanhuapp.com/web/#/item/project/board?pid=a37754d9-c79e-4a61-9b3d-13393db2b6ed)  
+- [制造云接口文档](http://doc.lsboot.cn/web/#/22?page_id=759)  
+
 ### wang归纳的分享
 
 **实用网站:**
