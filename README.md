@@ -63,4 +63,6 @@
 
 ### lin的归纳分享
 
-11111 
+**react native debugger**
+[react native debugger](https://github.com/jhen0409/react-native-debugger/blob/master/docs/getting-started.md)
+
