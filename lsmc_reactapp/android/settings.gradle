@@ -1,0 +1,3 @@
+rootProject.name = 'lsmc_reactapp'
+
+include ':app'
